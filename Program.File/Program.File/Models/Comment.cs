@@ -8,5 +8,7 @@ namespace Program.File.MyClasses
         }
 
         public string Comments { get; set; }
+        public string NumberofComments { get; set; }
+        public string ListofComments { get; set; }
     }
 }
